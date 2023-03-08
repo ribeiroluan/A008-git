@@ -8,7 +8,7 @@ Repositório de códigos do bootcamp de Engenharia de Dados
 * André Sionek - [GitHub](https://github.com/andresionek91)
 * Rhuan Lima  - [GitHub](https://github.com/rhuanlima)
 
-## Calendário
+## Calendário (in progress)
 - 19/01 - Encontro Inaugural
 - 26/01 - Carreira e processos seletivos para profissionais Junior
 - 02/02 - SQL
